@@ -1,8 +1,27 @@
-body{
-	text-align: center;
-	font-family: "arial";
-	/*color: red;*/
+body
+{
+	color: #333;
+	font-family: "Arial";
+	margin: 0;
+	font-size: 16px;
+	padding: 0;
+
 }
-h1{
-	color: red;
+#container
+{
+	width: 70%;
+	padding: 1em;
+	text-align: left;
+	border: 1px solid orange;
+	margin: 0 auto;
+}
+#container h1 
+{
+	color: blue;
+	font-size: 20px !important;
+}
+
+#post
+{
+	text-shadow: 1px 1px #999;
 }
